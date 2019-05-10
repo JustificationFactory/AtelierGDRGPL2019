@@ -17,7 +17,7 @@ Au travers de présentations et d’une grande place laissée au dialogue, le pr
 ### Introduction à l’atelier
 #### Thomas Polacsek et Mireille Blay-Fornarino *(ONERA / Université Nice Côte d'AZUR)*
 
-### 14h10 – 14h30 Une approche basée patron pour la certification multi-coeur
+### Une approche basée patron pour la certification multi-coeur
 #### Kevin Delmas *(ONERA)*
 
 
