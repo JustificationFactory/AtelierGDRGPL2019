@@ -4,7 +4,7 @@ De manière générale, les activités de certification consistent, pour un appl
 
 De nombreux travaux cherchent à organiser cette documentation, cet ensemble d’éléments de preuves, dans un cadre cohérent sous la forme d’une argumentation. Nous pouvons citer Safety Argument Manager, Goal Structuring Notation (GSN), ASCAD notation et Justification Diagram pour les travaux académiques et le Structured Assurance Case Meta-model (SACM) ou l’ISO 15026 pour les organismes de standardisation.
 
-L’ensemble de ces travaux ont un point commun, ils trouvent leur origine dans le modèle d’argumentation présenté par Stephen Toulmin en 1958 dans son ouvrage The Use of Argument. En effet, les travaux menés pour comprendre et modéliser l’Argumentation peuvent être d’une grande aide pour nous aider à structurer les différents éléments, qu’ils soient formels ou informels, constituant un dossier de certification.
+L’ensemble de ces travaux ont un point commun, ils trouvent leur origine dans le modèle d’argumentation présenté par Stephen Toulmin en 1958 dans son ouvrage *The Uses of Argument*. En effet, les travaux menés pour comprendre et modéliser l’Argumentation peuvent être d’une grande aide pour nous aider à structurer les différents éléments, qu’ils soient formels ou informels, constituant un dossier de certification.
 
 Au travers de présentations et d’une grande place laissée au dialogue, le présent atelier vise à adresser les questions suivantes :
 - La preuve formelle suffit-elle ? Doit-elle suffire? Faut-il lui adjoindre des justifications informelles ?
